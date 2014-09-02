@@ -3,7 +3,7 @@
  *
  *       Filename:  test.cpp
  *
- *    Description:  课本27页例题2.3
+ *    Description:  C++ 第二章的学习
  *
  *        Version:  1.0
  *        Created:  2014年09月02日 20时38分02秒

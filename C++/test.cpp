@@ -51,7 +51,7 @@ int main ()
 	int numberi ;
 	char namei[15] ;
 	float scorei ;
-	Student stu1, stu2 ; 			// 创建了两个Student类的对象stu1和stu2
+	Student stu1, stu2 ; 				// 创建了两个Student类的对象stu1和stu2
 
 	cout << "Enter number :\n" ;
 	cin >> numberi ;

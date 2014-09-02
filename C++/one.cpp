@@ -3,7 +3,7 @@
  *
  *       Filename:  one.cpp
  *
- *    Description: 在linux环境编写一个完整的C++控制台应用程序. 
+ *    Description: 上机作业:在linux环境编写一个完整的C++控制台应用程序. 
  *
  *        Version:  1.0
  *        Created:  2014年09月02日 19时10分09秒

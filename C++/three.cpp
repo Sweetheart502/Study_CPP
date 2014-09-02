@@ -3,7 +3,7 @@
  *
  *       Filename:  three.cpp
  *
- *    Description:  在linux环境中编辑/编译/运行下面的程序,体会C++程序中的输入输出流类对象的输入和输出操作.
+ *    Description:  上机作业:在linux环境中编辑/编译/运行下面的程序,体会C++程序中的输入输出流类对象的输入和输出操作.
  *
  *        Version:  1.0
  *        Created:  2014年09月02日 19时21分38秒

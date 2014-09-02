@@ -3,7 +3,7 @@
  *
  *       Filename:  four.cpp
  *
- *    Description:  在linux环境中编辑编译运行下面的程序，体会C++程序中main()函数的返回值的意义.
+ *    Description:  上机作业:在linux环境中编辑编译运行下面的程序，体会C++程序中main()函数的返回值的意义.
  *
  *        Version:  1.0
  *        Created:  2014年09月02日 19时30分36秒
